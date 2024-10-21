@@ -8,10 +8,9 @@
   - python
   - virtualization
   - FDM
-  - 
 ## interests
   - network infrastructure & security
-  -  
+  - elaborate rube-goldberg contraptions that shoot me in the nuts
   - open-source intelligence
   - hardware, PCB and UI design
 ## contact

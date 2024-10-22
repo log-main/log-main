@@ -19,7 +19,6 @@
     - elaborate rube-goldberg contraptions that shoot me in the nuts
     - open-source intelligence
     - hardware, PCB and UI design
-    - 
 ## studying/learning  
     - practical cybersecurity
     - network equipment configuration

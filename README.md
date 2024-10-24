@@ -32,6 +32,7 @@
     - to do
         1. self-host site with registered domain
         2. homelab
+        3. lock the fuck in
 ## contact
 |            |                                                                 |
 |------------|-----------------------------------------------------------------|
